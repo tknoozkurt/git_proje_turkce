@@ -8,7 +8,8 @@ public class FirstClass {
 		
 		System.out.println("Second commit from local repository");
 		
-		
+		System.out.println("Thrid commit from local repository");
 	}
+	
 
 }
