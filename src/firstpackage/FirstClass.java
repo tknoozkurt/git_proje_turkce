@@ -9,8 +9,8 @@ public class FirstClass {
 		
 		System.out.println("Second commit from local repository");
 		
-		System.out.println("Thrid commit from local repository");
-		System.out.println("First commit from from remote repository to local");
+		System.out.println("Conflict yapmak istiyoruz");
+		System.out.println("GLIBA conflict yaptikl");
 	}
 	
 
